@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "user": {
+      "name": "Ananya Sharma",
+      "profilePicture": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "title": "Understanding the Event Loop in JavaScript",
+    "description": "Ever wondered how JavaScript handles async operations? Let’s dive into the event loop, call stack, and the task queue.",
+    "likes": 120,
+    "comments": 15
+  },
+  {
+    "id": "2",
+    "user": {
+      "name": "Rohan Mehta",
+      "profilePicture": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "title": "Building a REST API with Express and MongoDB",
+    "description": "A step-by-step guide to building your own RESTful API using Node.js, Express, and MongoDB.",
+    "likes": 95,
+    "comments": 8
+  },
+  {
+    "id": "3",
+    "user": {
+      "name": "Priya Verma",
+      "profilePicture": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    "title": "Mastering Flexbox: A Visual Guide",
+    "description": "Struggling with CSS layouts? This visual guide will help you finally master Flexbox with real examples.",
+    "likes": 142,
+    "comments": 22
+  },
+  {
+    "id": "4",
+    "user": {
+      "name": "Aditya Joshi",
+      "profilePicture": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    "title": "React Hooks: The Ultimate Introduction",
+    "description": "What are hooks? How do useState and useEffect really work? Learn all the basics with examples.",
+    "likes": 180,
+    "comments": 31
+  },
+  {
+    "id": "5",
+    "user": {
+      "name": "Neha Agarwal",
+      "profilePicture": "https://randomuser.me/api/portraits/women/33.jpg"
+    },
+    "title": "Deploying MERN Stack Apps on Render",
+    "description": "Want to go live with your MERN app? Here’s how to deploy it using Render’s free service.",
+    "likes": 88,
+    "comments": 11
+  },
+  {
+    "id": "6",
+    "user": {
+      "name": "Kunal Bansal",
+      "profilePicture": "https://randomuser.me/api/portraits/men/67.jpg"
+    },
+    "title": "10 VSCode Extensions Every Dev Must Use",
+    "description": "These extensions will boost your productivity, code quality, and developer experience inside VSCode.",
+    "likes": 210,
+    "comments": 19
+  },
+  {
+    "id": "7",
+    "user": {
+      "name": "Divya Sinha",
+      "profilePicture": "https://randomuser.me/api/portraits/women/56.jpg"
+    },
+    "title": "Handling Forms in React the Right Way",
+    "description": "Learn best practices for handling forms, validations, and state in modern React applications.",
+    "likes": 160,
+    "comments": 14
+  },
+  {
+    "id": "8",
+    "user": {
+      "name": "Aman Kapoor",
+      "profilePicture": "https://randomuser.me/api/portraits/men/24.jpg"
+    },
+    "title": "Why You Should Learn TypeScript in 2025",
+    "description": "TS isn’t just hype. Here’s why TypeScript is becoming essential for serious JavaScript developers.",
+    "likes": 132,
+    "comments": 18
+  },
+  {
+    "id": "9",
+    "user": {
+      "name": "Ishita Rai",
+      "profilePicture": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    "title": "Node.js Performance Tips Nobody Told You",
+    "description": "Your Node apps can run faster with these lesser-known tips and tweaks. Improve speed and stability.",
+    "likes": 78,
+    "comments": 9
+  },
+  {
+    "id": "10",
+    "user": {
+      "name": "Siddharth Jain",
+      "profilePicture": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    "title": "Getting Started with WebSockets in 10 Minutes",
+    "description": "Want to build real-time apps? This post helps you get started with WebSockets quickly and clearly.",
+    "likes": 106,
+    "comments": 12
+  }
+]
